@@ -12,7 +12,7 @@ This widget is build on top of [Uebersicht](http://tracesof.net/uebersicht/), it
 
 After downloading, to install Twitter Profile Widget:
 
-1. [Click here]() to download the ZIP file
+1. [Click here](https://github.com/saviomartin/twitter-profile-desktop-widget/blob/main/twitter-profile.widget.zip?raw=true) to download the ZIP file
 2. Extract the zip file (Mac do it for you automatically)
 3. Click on Uebersicht icon on menu bar and click "Open Widgets Folder"
 4. Drag and drop the extracted folder to the widgets folder
